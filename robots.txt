@@ -1,0 +1,8 @@
+# robots.txt for http://https://github.com/p4p1r1co/web6/
+
+User-agent: *
+Disallow:/
+Disallow:/ css
+disallow:/ fuentess
+disallow:/ imagenes
+disallow:/ particles.js-master 
